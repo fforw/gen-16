@@ -1,3 +1,4 @@
-# Simple Starter
+# gen-16
 
-Simple JS build starter for simple, client-only demos.
+Simulated canvas brush stuff in a voronoi diagram.
+
